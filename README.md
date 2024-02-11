@@ -1,7 +1,7 @@
-## Привет, меня зовут Оля и я учусь фронтенду!
+## Hello, my name is Olya and I'm learning frontend!
 
-⚡ Скоро здесь будет много крутых проектов ⚡  
+⚡ There will be a lot of cool projects here soon ⚡  
 
-А ещё я развиваюсь в дизайне и постепенно собираю свое портфолио:  
-[Мой аккаунт Behance](https://www.behance.net/olyach)
+And I'm also developing in design and gradually collecting my portfolio:  
+[My account on Behance](https://www.behance.net/olyach)
 
